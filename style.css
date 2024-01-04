@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.b1{
+    background-color: #fbb304;
+    text-align: center;
+  padding: 2vh;
+  font-size: medium;
+}
+.top{
+    background-color: #f2f2f3;
+    font-size: medium;
+    display:flex;
+   padding-left: 30px;
+   justify-content: space-between;
+}
+.top ul{
+  list-style: none;
+  display: flex;
+}
+.top ul li a{
+    text-decoration: none; 
+    padding-right: 20px;
+}
+.logo{
+    font-size: 40px;
+    color:blue;
+    margin-left: 5%;
+}
+.color{
+    background-color: blue;
+    color: #f2f2f3;
+    border-radius: 10%;
+}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+}
+.nav1 ul{
+    display: flex;
+    list-style: none;
+}
+.nav1 ul li a{
+    text-decoration: none;
+    padding-right:10%;
+}
+.nav2 ul{
+    display: flex;
+}
+.nav2 ul li{
+    list-style: none;
+    padding: 50px;
+    padding-top: 0%;
+}
+.nav2 ul li a{
+     text-decoration: none;
+}
+
+
